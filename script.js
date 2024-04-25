@@ -26,13 +26,13 @@ let a = 400;
 let b = 70;
 let c = 20;
 
-let  = a - b - c;
-console.log(let);
+let result = a - b - c;
+console.log(result);
 
 let d = 80;
 let e = 4;
 
-let  = 80 / 4 ;
+let = 80 / 4 ;
 console.log(let);
 
 let k = 800;
