@@ -26,18 +26,20 @@ let a = 400;
 let b = 70;
 let c = 20;
 
-let sum = a - b - c;
-console.log(sum);
+let  = a - b - c;
+console.log(let);
 
 let d = 80;
 let e = 4;
 
-let sum = 80 / 4 ;
+let  = 80 / 4 ;
+console.log(let);
 
 let k = 800;
 let m = 9;
 
-let sum = k * m;
+let  = k * m;
+console.log(let);
 
 
 
@@ -48,8 +50,9 @@ let person = {
   };
   console.log(`Hello, I am , ${person.userName}`);
 
+  
 
   var length = 9;
 	var width = 5;
-var area = 9 * 5
+var area = 9 * 5;
 console.log(area);
