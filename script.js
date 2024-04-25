@@ -52,7 +52,7 @@ let person = {
 
   
 
-  var length = 9;
+  var length = 7;
 	var width = 5;
-var area = 9 * 5;
+var area = 7 * 5;
 console.log(area);
