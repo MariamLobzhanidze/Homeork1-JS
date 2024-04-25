@@ -33,13 +33,13 @@ let d = 80;
 let e = 4;
 
 let = 80 / 4 ;
-console.log(let);
+console.log(80 / 4);
 
 let k = 800;
 let m = 9;
 
 let  = k * m;
-console.log(let);
+console.log(k * m);
 
 
 
