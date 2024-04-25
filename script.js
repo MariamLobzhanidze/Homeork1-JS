@@ -41,3 +41,9 @@ let sum = k * m
 
 
 
+let person = {
+    userName: "Mariam",
+    age: 25,
+    hasHobbies: true,
+  };
+  console.log(`Hello, I am , ${person.userName}`);
